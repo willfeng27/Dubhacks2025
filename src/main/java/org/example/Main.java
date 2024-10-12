@@ -8,5 +8,9 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Meow!");
 
+        System.out.println("senlin sun");
+        System.out.println("wowww");
+        System.out.println("fang hotels");
+
     }
 }
